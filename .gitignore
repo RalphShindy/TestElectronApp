@@ -6,6 +6,10 @@
 /out-tsc
 /bazel-out
 
+
+#Electron
+/test-electron-app-win32-x64
+
 # Node
 /node_modules
 npm-debug.log
