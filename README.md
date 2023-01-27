@@ -31,4 +31,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Build ElectronApp
 
+* `ng build`
+
 * `electron-packager . -platform=win32`
